@@ -35,7 +35,9 @@ public class Main {
         personsbyName.add(new Person( "YA", 19));
         for(Person p : personsbyName){
             System.out.println(p);
-        }
+        }.01301.
+        00.
+        .000
         
     }
     
